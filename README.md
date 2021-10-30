@@ -1,5 +1,5 @@
 # other-E156-firmware
-E156 dongle voice compatible firmware
+Huawei E156 dongle voice compatible firmware
 
 Firmware that allows to use freepbx (chan_dongle) with a dongle for voice.
 
